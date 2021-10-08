@@ -1,4 +1,4 @@
-link to site: https://615e610b6cea99497957a43b--adoring-swartz-37ad62.netlify.app
+link to site: https://adoring-swartz-37ad62.netlify.app
 
 # Getting Started with Create React App
 
